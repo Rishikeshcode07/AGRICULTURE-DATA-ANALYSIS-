@@ -2,6 +2,7 @@
 # AGRICULTURE DATA ANALYSIS
 
 ## Dashboard Overview: Rainfall · Temperature · Humidity · Yields Analysis (Power BI)
+## Dashboard Link : https://app.powerbi.com/groups/me/reports/50c8b6ab-eb75-4293-bf13-87dd4041702d/42e458c34a164deda979?experience=power-bi
 
 ### Problem Statement
 
